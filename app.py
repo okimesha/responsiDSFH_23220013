@@ -27,7 +27,7 @@ st.divider()
 # ===============================
 
 sex = st.selectbox(
-    "Sex",
+    "Jenis Kelamin",
     [1, 2],
     help="1 = Male, 2 = Female"
 )
