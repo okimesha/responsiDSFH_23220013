@@ -5,8 +5,8 @@ import numpy as np
 # ===============================
 # Load Model dan Scaler
 # ===============================
-model = joblib.load("best_model.pkl")
-scaler = joblib.load("scaler.pkl")
+model = joblib.load("best_model(1).pkl")
+scaler = joblib.load("scaler(1).pkl")
 
 # ===============================
 # Konfigurasi Halaman
